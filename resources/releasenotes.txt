@@ -1,0 +1,117 @@
+YAGERPAINT RELEASE NOTES
+Eric Yager
+
+VERSION 1.1.0 (4 Oct. 2019)
+New features:
+  * Added auto-save timer and auto-save.
+    - View can be toggled.
+  * Log tool use.
+  * Added data loss warning.
+
+Known issues:
+  * Fill tool will not always completely fill rounded rectangles.
+  * Previews can be dragged off of canvas, causing the scroll pane to pan away
+    from the canvas.
+  * The tools bar is extremely unattractive. 
+  * If white is drawn onto a transparent part of a transparent image, it is
+    removed upon saving.
+
+Upcoming:
+  * Copy & Paste selection
+  * Hover tool tip display
+
+VERSION 1.0.0 (27 Sep. 2019)
+New features:
+  * Added fill tool
+  * Added star drawing
+  * Added select & move
+  * Added write text
+  * Added eraser tool
+  * Added Tool Guide
+  * Added transparency grid behind transparent images
+  * Added rounded rectangles
+
+Known issues:
+  * Previews can be dragged off of canvas, causing the scroll pane to pan away
+    from the canvas.
+  * The tools bar is extremely unattractive. 
+  * If white is drawn onto a transparent part of a transparent image, it is
+    removed upon saving.
+
+Upcoming: 
+  * Auto-save
+  * Auto-save countdown timer
+  * Save file in alternative file type
+  * Data loss warning
+
+VERSION 0.2.0 (20 Sep. 2019)
+New features:
+  * Added free draw tool
+  * Added rectangle, square, ellipse, circle, and polygon drawing
+  * Added GIF support
+  * Added keyboard UI controls
+    - CTL + Z is undo
+    - CTL + SHFT + Z is redo
+    - CTL + S is save
+    - CTL + SHFT + S is save as
+    - CTL + N is create new file
+    - F1 is help > about
+    - CTL + O is open file
+  * Added color grabber tool
+  * Added canvas resize tool
+  * Added undo and redo
+  * Added transparency handling
+  * Added zoom
+
+Known issues:
+  * Line preview can be dragged off of canvas and move the canvas around.
+  * The tools bar is extremely unattractive. 
+  * If white is drawn onto a transparent part of a transparent image, it is
+    removed upon saving.
+  * Stars do not work yet, so don't try to use them.
+
+Upcoming:
+  * Rectangle corner rounding.
+  * Adding text.
+  * Drawing n-sided regular polygons.
+  * Draw n-side irregular polygons.
+  * Drawing stars.
+  * Eraser tool.
+  * Help information for the drawing tools.
+  * Select and move part of the canvas.
+
+VERSION 0.1.0 (13 Sep. 2019)
+New features:
+  * Menu bar rearranged and restyled.
+  * Draw line feature added with customizable width and color and end rounding.
+  * Added click and drag line tracking for line drawing feature.
+  * Added new tool bar for drawing tools.
+  * Added toggle feature for draw tools bar. 
+  * Added help > about.
+  * Added scroll bars and resizable canvas.
+
+Known issues:
+  * Line preview can be dragged off of canvas and move the canvas around.
+  * The tools bar is extremely unattractive. 
+
+Upcoming:
+  * Drawing rectangles.
+  * Minimum tool bar size.
+  * Call tool bar back to primary when maximized.
+  * Change save suggestion handling.
+
+VERSION 0.0.0 (4 Sep. 2019)
+New features:
+  * Menu bar with sexy new file, load file, save, save as, and exit buttons.
+  * New file button with customizable canvas dimensions.
+  * Load file button that allows users to pick an image file and open it.
+  * Save button allows users to save changes made to the image.
+  * Save as button allows users to save to a new image file, either png or jpg.
+  * Close button that reminds the user to save their work before closing.
+  * Resizes canvas to remove white space when loading a new image.
+
+Known issues:
+  * Yagerpaint is super lame.
+  
+Upcoming:
+  * Features to make Yagerpaint less lame.

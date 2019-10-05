@@ -1,0 +1,218 @@
+Welcome to the YagerPaint tool guide! If you have any questions about how to use any of the 
+YagerPaint tools, this guide is the place to look.
+
+Line
+
+The line tool allows you to draw straight lines. Change the color of line using the "Line Color" 
+color picker. Change the width of the line with the "Line Width" slider. Swith the end caps of 
+the line between square and round using the "Edge Rounding" selector. Press a point on the 
+canvas, drag on the canvas to another point on the canvas and release to draw a line.
+
+Free Draw
+
+The free draw tool allows you to draw a line as wavy and crazy as you would like. Change the 
+color of line using the "Line Color" color picker. Change the width of the line with the "Line 
+Width" slider. Swith the end caps of the line between square and round using the "Edge Rounding" 
+selector (note that round edges often make the bends in free draw lines look better). Press a 
+point on the canvas and drag the mouse around on the canvas free draw.
+
+Erase
+
+The erase tool works just like a pencil eraser, and allows you to erase everything on a prt of 
+the canvas. It is quite similar to the free draw tool. Change the width of the eraser with the 
+"Line Width" slider. Swith the eraser between square and round using the "Edge Rounding" 
+selector (note that a round eraser often looks cleaner). Press a point on the canvas and drag 
+the mouse around on the canvas erase.
+
+Square
+
+The square tool allows you to draw a perfect square. Change the outline color and width with the 
+"Line Color" color selector and "Line Width" slider, respectively. Change the fill color with 
+the "Fill Color" color selector. Switch to rounded squares using the "Edge Rounding" selector, 
+and change the degree of rounding with the "Sides" slider. Draw a square by pressing on the canvas 
+and dragging to another point on the canvas until you are satisfied with your square, then release. 
+The first point you press will be one corner of your square.
+
+Rectangle
+
+The rectangle tool allows you to draw a rectangle. Change the outline color and width with the 
+"Line Color" color selector and "Line Width" slider, respectively. Change the fill color with 
+the "Fill Color" color selector. Switch to rounded rectangles using the "Edge Rounding" selector, 
+and change the degree of rounding with the "Sides" slider. Draw a rectangle by pressing on the 
+canvas and dragging to another point on the canvas until you are satisfied with your rectangle, 
+then release. The first point you press will be one corner of your rectangle.
+
+Circle
+
+The circle tool allows you to draw a perfect circle. Change the outline color and width with the 
+"Line Color" color selector and "Line Width" slider, respectively. Change the fill color with 
+the "Fill Color" color selector. Draw a circle by pressing on the canvas and dragging to another 
+point on the canvas until you are satisfied with your circle, then release. The first point you 
+press will be the center of your circle.
+
+Ellipse
+
+The ellipse tool allows you to draw an ellipse. Change the outline color and width with the 
+"Line Color" color selector and "Line Width" slider, respectively. Change the fill color with 
+the "Fill Color" color selector. Draw an ellipse by pressing on the canvas and dragging to 
+another point on the canvas until you are satisfied with your ellipse, then release. The first 
+point you press will be one corner of an imaginary rectangle which will circumscribe the 
+ellipse.
+
+Regular Polygon
+
+The regular polygon tool allows you to draw a perfect regular polygon. Change the outline color 
+and width with the "Line Color" color selector and "Line Width" slider, respectively. Change the 
+fill color with the "Fill Color" color selector. Change the number of sides with the "Sides:" 
+slider. Draw a regular polygon by pressing on the canvas and dragging to another point on the 
+canvas until you are satisfied with your polygon, then release. The first point you press will 
+be the center of your regular polygon.
+
+Irregular Polygon
+
+The irregular polygon tool allows you to draw an irregular polygon. Change the outline color and 
+width with the "Line Color" color selector and "Line Width" slider, respectively. Change the 
+fill color with the "Fill Color" color selector. Change the number of sides with the "Sides:" 
+slider. Draw an irregular polygon by clicking on all the place on the canvas that you want the 
+vertices to be. The irregular polygon will automatically draw when you place the final point.
+
+Star
+
+The star tool allows you to draw a perfect star. Change the outline color and width with the 
+"Line Color" color selector and "Line Width" slider, respectively. Change the fill color with 
+the "Fill Color" color selector. Change the number of points with the "Sides:" slider. Draw a 
+star by pressing on the canvas and dragging to another point on the canvas until you are 
+satisfied with your star, then release. The first point you press will be the center of your 
+star.
+
+Text
+
+The text tool allows you to write text onto the canvas. Change the outline color with the "Line 
+Color" color selector, and the fill color with the "Fill Color" color selector. Change the font 
+size with the "Line Width" slider. Put the text you would like to write to the canvas in the 
+"Text:" field. To write the text onto the canvas, press on the canvas and drag the text until it 
+is in the position you would like it to be, then release.
+
+Select & Move
+
+The select and move tool allows you to select a particular area of the canvas and move it to a 
+new place on the canvas. To select an area, press on the canvas and drag until the preview 
+rectangle includes everything you want to move. Release, and the selected area will pop off the 
+canvas. You can then drag this selection with the mouse to the new place you would like it to 
+be. When you are satisfied with the selection's location, hit enter. The selection will be in 
+the new position.
+
+Fill
+
+The fill tool allows you to fill an enclosed area that is all one color with a new color. Change 
+the fill color using the "Fill Color" color selector. Click a point in the area you would like 
+to fill, and the fill tool will change the color of that area.
+
+Grab Color
+
+The color grabber tool allows you to draw with a color that is already in the canvas. Select the 
+"Grab color" button, then click a point on the canvas. Your line color will automatically change 
+to that color, and it will be added to the custom colors in both your "Line Color" and your 
+"Fill Color" color selectors.
+
+Zoom In & Zoom Out
+
+The zoom in and out buttons zoom the canvas in and out in five percent increments, respectively.
+
+File > New Canvas
+
+The new canvas option allows you to create a new blank canvas with dimensions that you specify.
+
+File > Load Image
+
+The load image option allows you to load an image and modify it.
+
+File > Save & Save As
+
+The save and save as options allow you to save an image you've been working on. Save as will 
+save the image to a new file, while save overwrites the old file that you've modified.
+
+Edit > Undo & Redo
+
+Undo allows you to go back after making changes, and redo allows you to repeat changes that you 
+have undone.
+
+Edit > Scale 
+
+Scale allows you to scale the image you are working with up or down, changing its 
+dimensions while remaining as close to possible to the original appearance. Note that scaling 
+the canvas size up may result in a blurry image.
+
+View > Show Draw Tools
+
+The show draw tools option opens the separate draw tools window if it has been closed.
+
+View > Toggle Tools Location
+
+The toggle tools location option shifts the external tools window into the top of the main 
+window, and back again.
+
+Help > About
+
+The about option shows the current version and release notes.
+
+Help > Tool Guides
+
+The tool guides option opens this window containing helpful information about how to use the 
+various tools.
+
+Exit
+
+Exit close the window.
+
+CONTROL + Z
+
+Undo
+
+CONTROL + SHIFT + Z
+
+Redo
+
+CONTROL + S
+
+Save
+
+CONTROL + SHIFT + S
+
+Save as
+
+CONTROL + N
+
+New file
+
+CONTROL + O
+
+Load file
+
+F1
+
+Show help > about
+
+ESCAPE
+
+Switch to Mouse tool
+
+CONTROL + Q
+
+Quit
+
+ALT + F
+
+Open file menu
+
+ALT + E
+
+Open edit menu
+
+ALT + V
+
+Open view menu
+
+ALT + H
+
+Open help menu
